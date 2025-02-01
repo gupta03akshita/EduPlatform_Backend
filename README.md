@@ -31,7 +31,7 @@ Middleware: cors, body-parser
 Clone the project
 
 ```bash
-  git clone https://github.com/gupta03akshita/EduPlatform.git
+  git clone https://github.com/gupta03akshita/EduPlatform_Backend.git
 ```
 
 Go to the project directory
